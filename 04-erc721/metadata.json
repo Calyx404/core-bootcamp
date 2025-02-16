@@ -1,0 +1,16 @@
+{
+    "name": "Dio",
+    "description": "Marilag",
+    "symbol": "SYM",
+    "image": "https://i.imgur.com/H3I6jvx.png",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Panot"
+        },
+        {
+            "body": "Body",
+            "value": "skinny"
+        }
+    ]
+}
